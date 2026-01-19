@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm socratese
+# 👋 Hi there, I'm Benjamin Lim Wei Jie
 
 ## 🚀 Full Stack AI Developer & Automation Expert
 
