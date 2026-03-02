@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Benjamin Lim Wei Jie
+# 👋 Hi there
 
 ## 🚀 Full Stack AI Developer & Automation Expert
 
